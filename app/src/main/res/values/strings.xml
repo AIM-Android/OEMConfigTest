@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">OEMConfigTest</string>
+    <string name="plus">+</string>
+    <string name="load_manifest_restrictions">Load manifest restrictions</string>
+    <string name="reset">Reset</string>
+    <string name="save">Save</string>
+
+    <string name="restriction_save_label">Save</string>
+    <string name="restriction_cancel_label">Cancel</string>
+    <string name="key_empty_error">Restriction key should not be empty</string>
+    <string name="value_not_valid">Restriction value is not valid</string>
+
+    <string name="app_restrictions_key">Key:</string>
+    <string name="key_hint">Restriction key</string>
+    <string name="app_restrictions_value">Value:</string>
+    <string name="edit_bundle_instruction">Add values on the Edit screen</string>
+    <string name="configure">Configure</string>
+
+    <string name="error_opening_image_file">Error opening image file</string>
+    <string name="load_default">load default</string>
+
+</resources>
